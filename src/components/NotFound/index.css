@@ -1,0 +1,11 @@
+.contact-container {
+  width: 600px;
+  text-align: center;
+}
+.contact-container img {
+  height: 300px;
+}
+.contact-main-container {
+  display: flex;
+  justify-content: center;
+}
